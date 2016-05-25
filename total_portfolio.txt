@@ -1,0 +1,36 @@
+
+
+Cash balance = 2973.8
+CompanySymbol  Number    PricePerShare       TotalValue
+GOOG            10        569.96              5699.6    
+AMZN            10        129.66              1296.6    
+Total portfolio value: 9970
+Date of record: 12/12/2015	
+Time of record: 23:18:00
+
+Cash balance = 2381.4
+CompanySymbol  Number    PricePerShare       TotalValue
+GOOG            10        568.96              5689.6    
+AMZN            10        132.66              1326.6    
+MSFT            20        30.62               612.4     
+Total portfolio value: 10010
+Date of record: 12/12/2015	
+Time of record: 23:18:54
+
+Cash balance = 2381.4
+CompanySymbol  Number    PricePerShare       TotalValue
+GOOG            10        569.96              5699.6    
+AMZN            10        129.66              1296.6    
+MSFT            20        30.62               612.4     
+Total portfolio value: 9990
+Date of record: 12/12/2015	
+Time of record: 23:19:14
+
+Cash balance = 2381.4
+CompanySymbol  Number    PricePerShare       TotalValue
+GOOG            10        569.96              5699.6    
+AMZN            10        129.66              1296.6    
+MSFT            20        30.62               612.4     
+Total portfolio value: 9990
+Date of record: 12/12/2015	
+Time of record: 23:19:46
